@@ -1,0 +1,24 @@
+h1{
+    color: brown;
+    font-size: 80px;
+    background-color: blueviolet;
+    width: 500px;
+    text-align: center;
+    margin-left: 15cm;
+}
+
+h2{
+    color: blue;
+}
+
+li.cul{
+    color: brown;
+}
+
+a.ass{
+    color: chartreuse;
+}
+
+body{
+    background-color: #11A05E;
+}
